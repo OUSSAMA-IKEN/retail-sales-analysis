@@ -1,4 +1,3 @@
-
 CREATE TABLE order_items (
     order_item_id INTEGER PRIMARY KEY,
     order_id INTEGER NOT NULL,
