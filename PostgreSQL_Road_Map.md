@@ -25,7 +25,7 @@
 
 **Deliverable:** A working PostgreSQL database and a saved verification script.
 
-Statut :
+Statut : Done 👍
 
 ---
 
@@ -52,7 +52,7 @@ Statut :
 
 **Deliverable:** A data dictionary describing each table, its columns and intended data types.
 
-Statut :
+Statut : Done 👍
 
 ---
 
@@ -81,7 +81,7 @@ Statut :
 
 **Deliverable:** SQL scripts that create the database tables correctly.
 
-Statut :
+Statut : Done 👍
 
 ---
 
@@ -110,7 +110,7 @@ Statut :
 
 **Deliverable:** Four populated tables with verified data.
 
-Statut :
+Statut : Done 👍
 
 ---
 
@@ -142,7 +142,7 @@ Statut :
 
 **Deliverable:** A collection of exploratory queries in `sql/01_exploration/`.
 
-Statut :
+Statut : Done 👍
 
 ---
 
@@ -174,7 +174,7 @@ Statut :
 
 **Deliverable:** A data-quality report and validation SQL scripts.
 
-Statut :
+Statut : Done 👍
 
 ---
 
