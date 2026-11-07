@@ -5,7 +5,7 @@
 -- ============================================
 
 
--- EXERCISE 1: Display all customers and their orders
+-- Todo 1: Display all customers and their orders
 -- Business question:
 -- Can we see every registered customer,
 -- including those who have never placed an order?
@@ -21,7 +21,7 @@ LEFT JOIN orders o
 ORDER BY c.customer_id;
 
 
--- EXERCISE 2: Find customers who never placed an order
+-- Todo 2: Find customers who never placed an order
 -- Business question:
 -- Which registered customers have never purchased anything?
 
@@ -36,9 +36,9 @@ WHERE o.order_id IS NULL
 ORDER BY c.customer_id;
 
 
--- EXERCISE 3: Use RIGHT JOIN
+-- Todo 3: Use RIGHT JOIN
 -- Business question:
--- Can we retrieve the same information as Exercise 1
+-- Can we retrieve the same information as Todo 1
 -- using RIGHT JOIN instead of LEFT JOIN?
 
 SELECT

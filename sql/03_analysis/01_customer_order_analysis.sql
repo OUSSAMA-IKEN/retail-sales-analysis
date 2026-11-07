@@ -5,7 +5,7 @@
 -- ============================================
 
 
--- EXERCISE 1: Display customer orders
+-- Todo 1: Display customer orders
 -- Join customers with orders.
 -- Display customer information and their orders.
 
@@ -20,7 +20,7 @@ INNER JOIN orders o
     ON c.customer_id = o.customer_id;
 
 
--- EXERCISE 2: Filter orders by customer
+-- Todo 2: Filter orders by customer
 -- Display orders belonging to Liam Smith.
 
 SELECT
@@ -33,7 +33,7 @@ INNER JOIN orders o
 WHERE c.customer_name = 'Liam Smith';
 
 
--- EXERCISE 3: Count orders per customer
+-- Todo 3: Count orders per customer
 -- Display the number of orders for each customer.
 -- Sort from highest to lowest.
 
